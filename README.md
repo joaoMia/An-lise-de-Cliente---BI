@@ -23,7 +23,8 @@ Paínel 2:
 - Soma de total por País, Escolaridade e Estado Civíl
   
 ## 📸 Dashboard
-![Dashboard](paineis/painel1.png,painel2.png)
+![Dashboard](paineis/painel1.png)
+![Painel 2](paineis/painel2.png)
 
 ## 🚀 Como abrir
 Baixe o arquivo .pbix e abra no Power BI
